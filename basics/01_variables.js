@@ -1,4 +1,4 @@
-// declaring varible is nothing but defining the memory for a keyword and it' value 
+// declaring varible is nothing but defining the memory for a keyword and it's value 
 const userId=123;
 let userEmail="test@gmail.com";
 var userCity="chandrapur";
